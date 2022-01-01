@@ -1,0 +1,7 @@
+{
+  "name": "crossplatform-app-course",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

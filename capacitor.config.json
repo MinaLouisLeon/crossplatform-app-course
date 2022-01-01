@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "crossplatform-app-course",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
