@@ -1,9 +1,9 @@
-###Project Plus
+### Project Plus
 
-####install dependencies
+#### install dependencies
 
 `$ npm install`
 
-####run dev in browser
+#### run dev in browser
 
 `$ npm run start`
