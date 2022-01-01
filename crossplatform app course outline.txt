@@ -1,0 +1,17 @@
+crossplatform app course outline
+--------------------------------
+session 1
+(html , css , javascript) refresh
+intro to react
+create first components
+intro to Ionic framework
+init ionic app
+cleanning the app
+intro react-router-dom
+----------------------------------------------------------------------------
+session 2
+Project List Page
+Ionic Menu
+Ionic actionsheet
+Add Project Page
+React Hooks (useState)
