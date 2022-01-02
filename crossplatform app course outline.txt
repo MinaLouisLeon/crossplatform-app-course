@@ -16,3 +16,14 @@ Add Project Page
 React Hooks (useState)
 ionic actionsheet
 ----------------------------------------------------------------------------
+session 3
+redux
+actions
+Reducers
+(useSelector,useDispatch)
+--------------------------
+firebase
+authentication with email and password
+LoginPage
+IonAlert
+----------------------------------------------------------------------------
