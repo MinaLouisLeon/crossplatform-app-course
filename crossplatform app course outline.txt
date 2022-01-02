@@ -12,6 +12,6 @@ intro react-router-dom
 session 2
 Project List Page
 Ionic Menu
-Ionic actionsheet
 Add Project Page
 React Hooks (useState)
+----------------------------------------------------------------------------
